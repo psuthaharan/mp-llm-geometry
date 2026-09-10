@@ -1,0 +1,9 @@
+quantity,value
+declared_layer_dimension_family,130.0
+ordered_gradient_pearson_r,0.971469633819688
+ordered_gradient_exact_p,0.016666666666666666
+ordered_gradient_bootstrap_ci_low,0.5288080998849921
+ordered_gradient_bootstrap_ci_high,0.9912496661762042
+ordered_gradient_spearman_rho,0.9999999999999999
+ordered_gradient_spearman_exact_p,0.016666666666666666
+ordered_gradient_bootstrap_positive_rate,1.0

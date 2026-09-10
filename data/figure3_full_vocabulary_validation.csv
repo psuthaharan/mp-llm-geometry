@@ -1,0 +1,3 @@
+dimension,n_validated_tokens,maximum_absolute_error
+Evaluation,241,1.5339428505178887e-07
+Final Decision,241,1.2912932975672753e-07

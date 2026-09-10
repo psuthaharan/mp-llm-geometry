@@ -1,0 +1,157 @@
+dimension,label,layer,r,alpha_fold_1,alpha_fold_2,alpha_fold_3,alpha_fold_4,alpha_fold_5
+comprehension_continuous,Comprehension,0,0.45947486355381273,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,1,0.4322645042102543,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,2,0.4702064410531327,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,3,0.4389225487077655,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,4,0.4545251911228086,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,5,0.4524044962128244,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,6,0.44813799350795214,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,7,0.4578251145512396,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,8,0.44652924137743055,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,9,0.46889949572534895,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,10,0.4545008153753084,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,11,0.43194417680457675,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,12,0.47239031289492894,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,13,0.5086016989927946,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,14,0.5067993838822129,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,15,0.49262156278124214,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,16,0.4868968589640791,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,17,0.439456289079457,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,18,0.4564942935665867,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,19,0.45073324520544666,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,20,0.4519752351919475,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,21,0.4315209084744061,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,22,0.4340745362375716,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,23,0.42653144208234217,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,24,0.426713779967853,0.1,0.1,0.1,0.1,0.1
+comprehension_continuous,Comprehension,25,0.4074777661192925,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,0,0.5742297312799435,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,1,0.594566833551853,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,2,0.659513697577236,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,3,0.6581067565129242,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,4,0.6730718669571465,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,5,0.6669319887120366,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,6,0.6275830737738235,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,7,0.6294299412567448,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,8,0.6235072958243701,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,9,0.6413507240141094,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,10,0.6496905541071523,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,11,0.6567276759401202,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,12,0.6507038437483716,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,13,0.6677821826660915,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,14,0.67783232731501,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,15,0.6497382197104014,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,16,0.6677125279222293,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,17,0.6442277419873954,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,18,0.665967915312002,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,19,0.6343120417095265,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,20,0.6386854484395537,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,21,0.6370628865180055,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,22,0.6149386764701615,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,23,0.6364362272822035,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,24,0.6314639102714539,0.1,0.1,0.1,0.1,0.1
+judgment_continuous,Judgment,25,0.6201469604765847,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,0,0.47166708674487934,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,1,0.4682158819572095,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,2,0.5027915937365519,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,3,0.4891098916994636,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,4,0.486282162655868,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,5,0.5145294625824011,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,6,0.5659783122289074,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,7,0.5764364362636502,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,8,0.5614918430040827,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,9,0.5700145305663226,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,10,0.564019317940343,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,11,0.5690196500577008,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,12,0.5785693513547374,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,13,0.5751375308577831,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,14,0.56679119951042,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,15,0.5220765137469578,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,16,0.5326021019725492,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,17,0.5284357995455027,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,18,0.5375631395334852,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,19,0.531074716525352,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,20,0.5433898572323668,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,21,0.5247053519972966,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,22,0.5394310155068125,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,23,0.5503926629110951,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,24,0.534366104484292,0.1,0.1,0.1,0.1,0.1
+evaluation_continuous,Evaluation,25,0.5211757725442436,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,0,0.5120569619620114,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,1,0.5042356334821803,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,2,0.5643878128740832,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,3,0.5482407724420383,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,4,0.5726441131542237,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,5,0.5921013527884551,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,6,0.561173710988358,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,7,0.5465078359257234,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,8,0.5548464061212725,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,9,0.5514245074042848,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,10,0.5742995912930935,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,11,0.5771378779032958,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,12,0.5457058334668132,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,13,0.5829845692738829,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,14,0.563908748885559,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,15,0.5779608540884664,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,16,0.6013328531897879,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,17,0.5922363816066499,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,18,0.6106979017847635,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,19,0.609370297136768,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,20,0.6101684229463286,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,21,0.6198895262667399,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,22,0.6040596793611693,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,23,0.6149626441247158,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,24,0.6090530845444164,0.1,0.1,0.1,0.1,0.1
+final_decision_continuous,Final decision,25,0.6069821353960617,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,0,0.2651475583440248,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,1,0.26088773651150987,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,2,0.28711859993803457,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,3,0.27461426379987697,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,4,0.229699834543314,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,5,0.3039461262259812,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,6,0.30647737181606416,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,7,0.33869275879605587,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,8,0.3363413872765579,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,9,0.29976886363823163,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,10,0.30341611729149104,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,11,0.3168910321924717,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,12,0.319534016167152,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,13,0.3833176669474553,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,14,0.3742443612476107,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,15,0.3849065860074662,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,16,0.43149072485555345,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,17,0.3678322400408731,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,18,0.37129284327707857,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,19,0.38449583314395613,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,20,0.38407664877616193,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,21,0.38721993750668154,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,22,0.4000498803629876,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,23,0.40833878453483635,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,24,0.37494280403527713,0.1,0.1,0.1,0.1,0.1
+confidence_continuous,Confidence,25,0.3390552942566159,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,0,0.5306896830593906,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,1,0.5093129130701752,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,2,0.5698138243422308,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,3,0.5239989168070935,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,4,0.5126529137007567,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,5,0.539035603065131,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,6,0.5193524147784745,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,7,0.537538159709839,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,8,0.5464559651035381,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,9,0.5290351741212174,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,10,0.5386902498163081,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,11,0.5392116798586957,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,12,0.5476177315650745,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,13,0.592991426570699,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,14,0.585972875766674,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,15,0.5751411043833841,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,16,0.6180500985245385,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,17,0.5640683655394768,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,18,0.5803768129358112,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,19,0.5708575431248164,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,20,0.5771133288604753,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,21,0.5730064666703053,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,22,0.5717720045404591,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,23,0.5931568133202174,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,24,0.57075165615306,0.1,0.1,0.1,0.1,0.1
+mp_mean,MP avg,25,0.5410989561556101,0.1,0.1,0.1,0.1,0.1

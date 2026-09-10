@@ -1,0 +1,81 @@
+dimension,layer,pole,readable_rank,full_vocabulary_rank,token_id,token,english_zipf_frequency,coupling_r,occurred_in_reflections,corpus_count,passed_manuscript_filter
+Evaluation,12,positive,1,2,48280,juvenile,3.88,0.44485464692115784,False,0,False
+Evaluation,12,positive,2,5,37670,cease,4.03,0.43681174516677856,False,0,False
+Evaluation,12,positive,3,6,99129,blockade,3.57,0.4341796636581421,False,0,False
+Evaluation,12,positive,4,10,114735,misdemeanor,3.38,0.43084725737571716,False,0,False
+Evaluation,12,positive,5,12,120170,prohibiting,3.32,0.4273485541343689,False,0,False
+Evaluation,12,positive,6,13,112788,prosecute,3.54,0.4258567690849304,False,0,False
+Evaluation,12,positive,7,14,152403,discontinue,3.11,0.4246882200241089,False,0,False
+Evaluation,12,positive,8,15,37653,severity,3.71,0.424221009016037,False,0,False
+Evaluation,12,positive,9,18,35778,Hz,3.34,0.42133593559265137,False,0,False
+Evaluation,12,positive,10,20,73202,warns,3.73,0.4203539192676544,False,0,False
+Evaluation,12,positive,11,21,86722,banker,3.78,0.4202370345592499,False,0,False
+Evaluation,12,positive,12,22,94766,Physicians,4.04,0.4200197756290436,False,0,False
+Evaluation,12,positive,13,23,45635,sharply,3.89,0.41999906301498413,False,0,False
+Evaluation,12,positive,14,24,228704,Councilman,3.17,0.4199806749820709,False,0,False
+Evaluation,12,positive,15,25,102673,unfavorable,3.21,0.4196058213710785,False,0,False
+Evaluation,12,positive,16,28,218763,jeopardize,3.1,0.4180781841278076,False,0,False
+Evaluation,12,positive,17,29,70573,indictment,3.7,0.41799381375312805,False,0,False
+Evaluation,12,positive,18,31,128331,Terrier,3.24,0.41676652431488037,False,0,False
+Evaluation,12,positive,19,36,56662,swords,3.76,0.4155489206314087,False,0,False
+Evaluation,12,positive,20,38,111536,punitive,3.39,0.4151782691478729,False,0,False
+Evaluation,12,negative,1,5,8202,interested,4.95,-0.42443856596946716,False,0,False
+Evaluation,12,negative,2,23,4691,details,4.91,-0.3964444398880005,False,0,False
+Evaluation,12,negative,3,33,2113,information,5.43,-0.3895731568336487,True,1,False
+Evaluation,12,negative,4,70,11396,Did,5.96,-0.3786119520664215,False,0,False
+Evaluation,12,negative,5,73,22699,Hey,5.12,-0.3775855004787445,False,0,False
+Evaluation,12,negative,6,95,130641,captivating,3.17,-0.3726426362991333,False,0,False
+Evaluation,12,negative,7,136,13525,laid,4.56,-0.36814162135124207,False,0,False
+Evaluation,12,negative,8,140,18516,accessible,4.18,-0.36779195070266724,False,0,False
+Evaluation,12,negative,9,157,2845,important,5.44,-0.3644479215145111,False,0,False
+Evaluation,12,negative,10,158,28093,ez,3.24,-0.36439186334609985,False,0,False
+Evaluation,12,negative,11,166,15783,inspired,4.63,-0.36330339312553406,False,0,False
+Evaluation,12,negative,12,172,19170,invited,4.53,-0.3627912700176239,False,0,False
+Evaluation,12,negative,13,176,1517,here,5.97,-0.3617574870586395,False,0,False
+Evaluation,12,negative,14,179,32982,embedded,3.89,-0.3616231083869934,False,0,False
+Evaluation,12,negative,15,182,1703,way,6.01,-0.36150097846984863,True,1,False
+Evaluation,12,negative,16,184,6205,materials,4.78,-0.3613705635070801,False,0,False
+Evaluation,12,negative,17,193,7880,exactly,5.15,-0.36063170433044434,False,0,False
+Evaluation,12,negative,18,198,1570,where,6.0,-0.360257625579834,True,9,True
+Evaluation,12,negative,19,203,21540,Everyone,5.47,-0.3600826561450958,False,0,False
+Evaluation,12,negative,20,206,7177,uses,4.88,-0.35985538363456726,False,0,False
+Final Decision,21,positive,1,1,16686,horizontal,3.9,0.48713335394859314,False,0,False
+Final Decision,21,positive,2,2,8343,silver,4.81,0.45603835582733154,False,0,False
+Final Decision,21,positive,3,3,9723,shopping,4.68,0.44826701283454895,False,0,False
+Final Decision,21,positive,4,4,78156,smashed,3.84,0.4437292516231537,False,0,False
+Final Decision,21,positive,5,5,12991,vertical,4.15,0.4373428523540497,False,0,False
+Final Decision,21,positive,6,6,10436,orange,4.62,0.4348013699054718,False,0,False
+Final Decision,21,positive,7,7,4919,House,5.71,0.4326108992099762,False,0,False
+Final Decision,21,positive,8,9,16098,Cooper,4.26,0.42794886231422424,False,0,False
+Final Decision,21,positive,9,12,18755,McC,3.06,0.42493242025375366,False,0,False
+Final Decision,21,positive,10,13,27255,downtown,4.4,0.42489394545555115,False,0,False
+Final Decision,21,positive,11,15,18829,swimming,4.43,0.42418375611305237,False,0,False
+Final Decision,21,positive,12,16,14958,Death,5.4,0.42295923829078674,False,0,False
+Final Decision,21,positive,13,18,13676,gray,4.45,0.4220271706581116,False,0,False
+Final Decision,21,positive,14,19,69614,downstairs,3.72,0.4215204119682312,False,0,False
+Final Decision,21,positive,15,20,12579,electro,3.58,0.4214300215244293,False,0,False
+Final Decision,21,positive,16,21,27066,purchasing,4.06,0.42128846049308777,False,0,False
+Final Decision,21,positive,17,22,11455,grey,4.48,0.419945627450943,False,0,False
+Final Decision,21,positive,18,23,10762,weekend,4.93,0.41955652832984924,False,0,False
+Final Decision,21,positive,19,24,21311,wireless,4.2,0.419333815574646,False,0,False
+Final Decision,21,positive,20,25,52916,Coleman,3.77,0.41922637820243835,False,0,False
+Final Decision,21,negative,1,3,10094,indeed,4.79,-0.4009094536304474,False,0,False
+Final Decision,21,negative,2,19,15917,necessarily,4.48,-0.3580661714076996,True,1,False
+Final Decision,21,negative,3,21,7546,although,5.3,-0.355957955121994,False,0,False
+Final Decision,21,negative,4,30,4641,nor,4.78,-0.34618380665779114,False,0,False
+Final Decision,21,negative,5,32,54013,moreover,4.16,-0.3445207178592682,False,0,False
+Final Decision,21,negative,6,40,42365,differs,3.66,-0.33795973658561707,False,0,False
+Final Decision,21,negative,7,52,54002,Certainly,5.0,-0.33146795630455017,False,0,False
+Final Decision,21,negative,8,78,28815,constitute,3.85,-0.32005608081817627,False,0,False
+Final Decision,21,negative,9,92,31626,Nevertheless,4.25,-0.3152185082435608,False,0,False
+Final Decision,21,negative,10,109,20687,Perhaps,5.09,-0.31112754344940186,True,1,False
+Final Decision,21,negative,11,132,8523,mere,4.13,-0.30310574173927307,False,0,False
+Final Decision,21,negative,12,133,27078,unlike,4.57,-0.3026386797428131,False,0,False
+Final Decision,21,negative,13,138,56793,expressly,3.48,-0.3019493520259857,False,0,False
+Final Decision,21,negative,14,144,28683,Important,5.44,-0.2999591529369354,False,0,False
+Final Decision,21,negative,15,145,106112,distinguishes,3.16,-0.2999400496482849,False,0,False
+Final Decision,21,negative,16,150,42466,constitutes,3.72,-0.29942262172698975,False,0,False
+Final Decision,21,negative,17,151,14659,Yet,5.54,-0.2992978096008301,False,0,False
+Final Decision,21,negative,18,159,123427,insofar,3.06,-0.2966419756412506,False,0,False
+Final Decision,21,negative,19,187,12014,depends,4.53,-0.2901427745819092,False,0,False
+Final Decision,21,negative,20,220,94143,seeming,3.42,-0.28473180532455444,False,0,False

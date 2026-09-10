@@ -1,0 +1,3 @@
+dimension,selection_source,selected_layer,encoding_r,token_profile_wsr_rho,token_profile_wsr_p
+Evaluation,Figure 1 observed maximizing layer,12,0.5785693513547374,0.052632797229175965,0.41599071589713077
+Final Decision,Figure 1 observed maximizing layer,21,0.6198895262667399,-0.6746279277116698,2.3376207245524926e-33

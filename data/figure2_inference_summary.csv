@@ -1,0 +1,5 @@
+quantity,value
+marker_tests_declared,10.0
+marker_tests_reject_holm_05,6.0
+evaluation_tests_reject_holm_05,0.0
+evaluation_lowest_bootstrap_rate,0.9168

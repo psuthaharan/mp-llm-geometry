@@ -1,0 +1,6 @@
+dimension,label,observed_max_layer,mean_abs_partial_r,encoding_r
+comprehension_continuous,Comprehension,13,0.15260567781468187,0.5086016989927946
+confidence_continuous,Confidence,16,0.11858248760935447,0.43149072485555345
+evaluation_continuous,Evaluation,12,0.04965001407574598,0.5785693513547374
+final_decision_continuous,Final decision,21,0.1594988358163618,0.6198895262667399
+judgment_continuous,Judgment,14,0.14044271568386701,0.67783232731501

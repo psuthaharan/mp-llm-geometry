@@ -1,0 +1,5 @@
+dimension,layer,pole,n_reported,n_occurred_in_reflections,n_passed_manuscript_filter,strongest_coupling,weakest_reported_coupling
+Evaluation,12,negative,20,3,1,-0.42443856596946716,-0.35985538363456726
+Evaluation,12,positive,20,0,0,0.44485464692115784,0.4151782691478729
+Final Decision,21,negative,20,2,0,-0.4009094536304474,-0.28473180532455444
+Final Decision,21,positive,20,0,0,0.48713335394859314,0.41922637820243835

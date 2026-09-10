@@ -1,0 +1,2 @@
+ordered_linear_r,exact_two_sided_p,bootstrap_ci_low,bootstrap_ci_high,bootstrap_positive_fraction,spearman_rho_sensitivity,spearman_exact_two_sided_p,n_bootstrap
+0.971469633819688,0.016666666666666666,0.5288080998849921,0.9912496661762042,1.0,0.9999999999999999,0.016666666666666666,5000

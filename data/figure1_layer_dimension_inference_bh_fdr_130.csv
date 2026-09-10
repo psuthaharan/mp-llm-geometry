@@ -1,0 +1,131 @@
+dimension,label,layer,r,alpha_fold_1,alpha_fold_2,alpha_fold_3,alpha_fold_4,alpha_fold_5,p_pearson_approx,q_bh_fdr_130_approx,reject_bh_fdr_05,inference_status
+comprehension_continuous,Comprehension,0,0.45947486355381273,0.1,0.1,0.1,0.1,0.1,9.349368391995148e-27,1.4132766173946152e-26,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,1,0.4322645042102543,0.1,0.1,0.1,0.1,0.1,1.5160122522988194e-23,1.9907231595843082e-23,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,2,0.4702064410531327,0.1,0.1,0.1,0.1,0.1,4.200296909586288e-28,6.578778292123101e-28,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,3,0.4389225487077655,0.1,0.1,0.1,0.1,0.1,2.641277586077319e-24,3.539856558660324e-24,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,4,0.4545251911228086,0.1,0.1,0.1,0.1,0.1,3.7703979119704134e-26,5.483350847544925e-26,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,5,0.4524044962128244,0.1,0.1,0.1,0.1,0.1,6.80526524421865e-26,9.721807491740929e-26,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,6,0.44813799350795214,0.1,0.1,0.1,0.1,0.1,2.204866447847201e-25,3.049283385320597e-25,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,7,0.4578251145512396,0.1,0.1,0.1,0.1,0.1,1.491879890150707e-26,2.2292458128688723e-26,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,8,0.44652924137743055,0.1,0.1,0.1,0.1,0.1,3.4199935157691024e-25,4.679991126841929e-25,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,9,0.46889949572534895,0.1,0.1,0.1,0.1,0.1,6.165193612315111e-28,9.541371066678148e-28,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,10,0.4545008153753084,0.1,0.1,0.1,0.1,0.1,3.796165971377256e-26,5.483350847544925e-26,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,11,0.43194417680457675,0.1,0.1,0.1,0.1,0.1,1.647373228162326e-23,2.1415851966110237e-23,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,12,0.47239031289492894,0.1,0.1,0.1,0.1,0.1,2.2038252243962646e-28,3.537003446561906e-28,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,13,0.5086016989927946,0.1,0.1,0.1,0.1,0.1,2.4682301456360544e-33,4.395478341543658e-33,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,14,0.5067993838822129,0.1,0.1,0.1,0.1,0.1,4.4981857443801654e-33,7.902218199586777e-33,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,15,0.49262156278124214,0.1,0.1,0.1,0.1,0.1,4.468994534320565e-31,7.545055707294461e-31,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,16,0.4868968589640791,0.1,0.1,0.1,0.1,0.1,2.6947678981849823e-30,4.434428186886679e-30,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,17,0.439456289079457,0.1,0.1,0.1,0.1,0.1,2.292177315485189e-24,3.1039901147195267e-24,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,18,0.4564942935665867,0.1,0.1,0.1,0.1,0.1,2.1709381849290875e-26,3.2070677731906974e-26,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,19,0.45073324520544666,0.1,0.1,0.1,0.1,0.1,1.0806585721740873e-25,1.5105980041143156e-25,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,20,0.4519752351919475,0.1,0.1,0.1,0.1,0.1,7.665450278276356e-26,1.0831614523651372e-25,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,21,0.4315209084744061,0.1,0.1,0.1,0.1,0.1,1.8383154491663088e-23,2.3613319855619352e-23,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,22,0.4340745362375716,0.1,0.1,0.1,0.1,0.1,9.463535298065392e-24,1.2553669272943887e-23,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,23,0.42653144208234217,0.1,0.1,0.1,0.1,0.1,6.61949075753623e-23,8.274363446920289e-23,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,24,0.426713779967853,0.1,0.1,0.1,0.1,0.1,6.3190753108211e-23,7.975531945696534e-23,True,exploratory Pearson approximation
+comprehension_continuous,Comprehension,25,0.4074777661192925,0.1,0.1,0.1,0.1,0.1,7.28097982412068e-21,8.929503557883853e-21,True,exploratory Pearson approximation
+confidence_continuous,Confidence,0,0.2651475583440248,0.1,0.1,0.1,0.1,0.1,2.9060191800279892e-09,2.9514257297159265e-09,True,exploratory Pearson approximation
+confidence_continuous,Confidence,1,0.26088773651150987,0.1,0.1,0.1,0.1,0.1,5.284144236108388e-09,5.325106594527833e-09,True,exploratory Pearson approximation
+confidence_continuous,Confidence,2,0.28711859993803457,0.1,0.1,0.1,0.1,0.1,1.1211736383135228e-10,1.1567664522282378e-10,True,exploratory Pearson approximation
+confidence_continuous,Confidence,3,0.27461426379987697,0.1,0.1,0.1,0.1,0.1,7.406163672194819e-10,7.581112420356902e-10,True,exploratory Pearson approximation
+confidence_continuous,Confidence,4,0.229699834543314,0.1,0.1,0.1,0.1,0.1,3.065163662401726e-07,3.065163662401726e-07,True,exploratory Pearson approximation
+confidence_continuous,Confidence,5,0.3039461262259812,0.1,0.1,0.1,0.1,0.1,7.594971412973073e-12,8.027205558426824e-12,True,exploratory Pearson approximation
+confidence_continuous,Confidence,6,0.30647737181606416,0.1,0.1,0.1,0.1,0.1,4.988793527121995e-12,5.315927528900487e-12,True,exploratory Pearson approximation
+confidence_continuous,Confidence,7,0.33869275879605587,0.1,0.1,0.1,0.1,0.1,1.6489925702588163e-14,1.8166867299461535e-14,True,exploratory Pearson approximation
+confidence_continuous,Confidence,8,0.3363413872765579,0.1,0.1,0.1,0.1,0.1,2.5609994312636266e-14,2.7977304711283315e-14,True,exploratory Pearson approximation
+confidence_continuous,Confidence,9,0.29976886363823163,0.1,0.1,0.1,0.1,0.1,1.506293551744162e-11,1.5665452938139286e-11,True,exploratory Pearson approximation
+confidence_continuous,Confidence,10,0.30341611729149104,0.1,0.1,0.1,0.1,0.1,8.289389768298915e-12,8.690489273216603e-12,True,exploratory Pearson approximation
+confidence_continuous,Confidence,11,0.3168910321924717,0.1,0.1,0.1,0.1,0.1,8.479179048254326e-13,9.109861787380681e-13,True,exploratory Pearson approximation
+confidence_continuous,Confidence,12,0.319534016167152,0.1,0.1,0.1,0.1,0.1,5.34785743625457e-13,5.793512222609117e-13,True,exploratory Pearson approximation
+confidence_continuous,Confidence,13,0.3833176669474553,0.1,0.1,0.1,0.1,0.1,1.8564448646708424e-18,2.1548020750643704e-18,True,exploratory Pearson approximation
+confidence_continuous,Confidence,14,0.3742443612476107,0.1,0.1,0.1,0.1,0.1,1.3250972925323719e-17,1.5110758599053363e-17,True,exploratory Pearson approximation
+confidence_continuous,Confidence,15,0.3849065860074662,0.1,0.1,0.1,0.1,0.1,1.307494005936456e-18,1.5593965208416448e-18,True,exploratory Pearson approximation
+confidence_continuous,Confidence,16,0.43149072485555345,0.1,0.1,0.1,0.1,0.1,1.8527374040562877e-23,2.3613319855619352e-23,True,exploratory Pearson approximation
+confidence_continuous,Confidence,17,0.3678322400408731,0.1,0.1,0.1,0.1,0.1,5.1224939490639695e-17,5.740725977399276e-17,True,exploratory Pearson approximation
+confidence_continuous,Confidence,18,0.37129284327707857,0.1,0.1,0.1,0.1,0.1,2.4784549397816325e-17,2.801731671057498e-17,True,exploratory Pearson approximation
+confidence_continuous,Confidence,19,0.38449583314395613,0.1,0.1,0.1,0.1,0.1,1.4317780333534787e-18,1.6921013121450202e-18,True,exploratory Pearson approximation
+confidence_continuous,Confidence,20,0.38407664877616193,0.1,0.1,0.1,0.1,0.1,1.5705937420306266e-18,1.8394341122881214e-18,True,exploratory Pearson approximation
+confidence_continuous,Confidence,21,0.38721993750668154,0.1,0.1,0.1,0.1,0.1,7.821606358904542e-19,9.414896543125839e-19,True,exploratory Pearson approximation
+confidence_continuous,Confidence,22,0.4000498803629876,0.1,0.1,0.1,0.1,0.1,4.199549513869543e-20,5.1022564187200053e-20,True,exploratory Pearson approximation
+confidence_continuous,Confidence,23,0.40833878453483635,0.1,0.1,0.1,0.1,0.1,5.9256218025743675e-21,7.336484136520645e-21,True,exploratory Pearson approximation
+confidence_continuous,Confidence,24,0.37494280403527713,0.1,0.1,0.1,0.1,0.1,1.1415349804352174e-17,1.313270331474144e-17,True,exploratory Pearson approximation
+confidence_continuous,Confidence,25,0.3390552942566159,0.1,0.1,0.1,0.1,0.1,1.5402657098702662e-14,1.711406344300296e-14,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,0,0.47166708674487934,0.1,0.1,0.1,0.1,0.1,2.7299915232036083e-28,4.328035341664257e-28,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,1,0.4682158819572095,0.1,0.1,0.1,0.1,0.1,7.530749846213282e-28,1.1517617411855607e-27,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,2,0.5027915937365519,0.1,0.1,0.1,0.1,0.1,1.686979402760775e-32,2.885622662617115e-32,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,3,0.4891098916994636,0.1,0.1,0.1,0.1,0.1,1.350878814410653e-30,2.2514646906844213e-30,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,4,0.486282162655868,0.1,0.1,0.1,0.1,0.1,3.261640696737245e-30,5.3001661321980224e-30,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,5,0.5145294625824011,0.1,0.1,0.1,0.1,0.1,3.342424584371616e-34,6.119932337581832e-34,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,6,0.5659783122289074,0.1,0.1,0.1,0.1,0.1,1.6616273616966086e-42,4.408399122868554e-42,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,7,0.5764364362636502,0.1,0.1,0.1,0.1,0.1,2.232379433427556e-44,7.078276252331275e-44,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,8,0.5614918430040827,0.1,0.1,0.1,0.1,0.1,1.0074878823261927e-41,2.4711966924982084e-41,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,9,0.5700145305663226,0.1,0.1,0.1,0.1,0.1,3.2068088213540554e-43,9.062720582087548e-43,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,10,0.564019317940343,0.1,0.1,0.1,0.1,0.1,3.6624287451232774e-42,9.335602683647571e-42,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,11,0.5690196500577008,0.1,0.1,0.1,0.1,0.1,4.8205350814803445e-43,1.333339490622223e-42,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,12,0.5785693513547374,0.1,0.1,0.1,0.1,0.1,9.092994448320685e-45,3.110761258636024e-44,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,13,0.5751375308577831,0.1,0.1,0.1,0.1,0.1,3.845112954148374e-44,1.190154009617354e-43,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,14,0.56679119951042,0.1,0.1,0.1,0.1,0.1,1.195179919588397e-42,3.2369456155519084e-42,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,15,0.5220765137469578,0.1,0.1,0.1,0.1,0.1,2.4749209644321614e-35,4.66289457066929e-35,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,16,0.5326021019725492,0.1,0.1,0.1,0.1,0.1,5.871858665390574e-37,1.1743717330781148e-36,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,17,0.5284357995455027,0.1,0.1,0.1,0.1,0.1,2.622569612440031e-36,5.0885679047343886e-36,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,18,0.5375631395334852,0.1,0.1,0.1,0.1,0.1,9.615223729614684e-38,1.984093785476046e-37,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,19,0.531074716525352,0.1,0.1,0.1,0.1,0.1,1.0188257289050913e-36,2.0067779508736646e-36,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,20,0.5433898572323668,0.1,0.1,0.1,0.1,0.1,1.1045965253778092e-38,2.354058168837954e-38,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,21,0.5247053519972966,0.1,0.1,0.1,0.1,0.1,9.841871462798879e-36,1.8815342502409622e-35,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,22,0.5394310155068125,0.1,0.1,0.1,0.1,0.1,4.82722005094115e-38,1.0121590429392734e-37,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,23,0.5503926629110951,0.1,0.1,0.1,0.1,0.1,7.747483342442473e-40,1.766969885118459e-39,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,24,0.534366104484292,0.1,0.1,0.1,0.1,0.1,3.096373284859226e-37,6.2895082348703025e-37,True,exploratory Pearson approximation
+evaluation_continuous,Evaluation,25,0.5211757725442436,0.1,0.1,0.1,0.1,0.1,3.388282427313958e-35,6.29252450786878e-35,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,0,0.5120569619620114,0.1,0.1,0.1,0.1,0.1,7.732444457269894e-34,1.396135804784842e-33,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,1,0.5042356334821803,0.1,0.1,0.1,0.1,0.1,1.0498867179260648e-32,1.8198036444051792e-32,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,2,0.5643878128740832,0.1,0.1,0.1,0.1,0.1,3.1577661221869995e-42,8.210191917686198e-42,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,3,0.5482407724420383,0.1,0.1,0.1,0.1,0.1,1.7647586517999887e-39,3.955493529896526e-39,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,4,0.5726441131542237,0.1,0.1,0.1,0.1,0.1,1.084602380474775e-43,3.1332957658160163e-43,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,5,0.5921013527884551,0.1,0.1,0.1,0.1,0.1,2.605057907048738e-47,9.407153553231552e-47,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,6,0.561173710988358,0.1,0.1,0.1,0.1,0.1,1.143638209665138e-41,2.7532030973419985e-41,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,7,0.5465078359257234,0.1,0.1,0.1,0.1,0.1,3.409774744938061e-39,7.513062997321151e-39,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,8,0.5548464061212725,0.1,0.1,0.1,0.1,0.1,1.3832456030752108e-40,3.26948960726868e-40,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,9,0.5514245074042848,0.1,0.1,0.1,0.1,0.1,5.2095863586870755e-40,1.209368261838071e-39,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,10,0.5742995912930935,0.1,0.1,0.1,0.1,0.1,5.453661049444841e-44,1.6487812475065796e-43,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,11,0.5771378779032958,0.1,0.1,0.1,0.1,0.1,1.6626716061522963e-44,5.403682719994963e-44,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,12,0.5457058334668132,0.1,0.1,0.1,0.1,0.1,4.618932845847243e-39,1.0007687832669027e-38,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,13,0.5829845692738829,0.1,0.1,0.1,0.1,0.1,1.3870385079990519e-45,4.873378541618291e-45,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,14,0.563908748885559,0.1,0.1,0.1,0.1,0.1,3.828897964551372e-42,9.57224491137843e-42,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,15,0.5779608540884664,0.1,0.1,0.1,0.1,0.1,1.1756535248883845e-44,3.9188450829612816e-44,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,16,0.6013328531897879,0.1,0.1,0.1,0.1,0.1,4.082192076865237e-49,1.6081362727044872e-48,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,17,0.5922363816066499,0.1,0.1,0.1,0.1,0.1,2.453778990543476e-47,9.114036250590054e-47,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,18,0.6106979017847635,0.1,0.1,0.1,0.1,0.1,5.233347245686871e-51,2.5197597849603456e-50,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,19,0.609370297136768,0.1,0.1,0.1,0.1,0.1,9.791586094336536e-51,4.389331697461206e-50,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,20,0.6101684229463286,0.1,0.1,0.1,0.1,0.1,6.721141225756917e-51,3.120529854815712e-50,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,21,0.6198895262667399,0.1,0.1,0.1,0.1,0.1,6.298034230408753e-53,3.411435208138074e-52,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,22,0.6040596793611693,0.1,0.1,0.1,0.1,0.1,1.1652861799747147e-49,4.733975106147279e-49,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,23,0.6149626441247158,0.1,0.1,0.1,0.1,0.1,6.854901694651956e-52,3.467130317953763e-51,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,24,0.6090530845444164,0.1,0.1,0.1,0.1,0.1,1.136765616383699e-50,4.925984337662696e-50,True,exploratory Pearson approximation
+final_decision_continuous,Final decision,25,0.6069821353960617,0.1,0.1,0.1,0.1,0.1,2.999486343330658e-50,1.257849111719308e-49,True,exploratory Pearson approximation
+judgment_continuous,Judgment,0,0.5742297312799435,0.1,0.1,0.1,0.1,0.1,5.614646585239027e-44,1.6588728547297126e-43,True,exploratory Pearson approximation
+judgment_continuous,Judgment,1,0.594566833551853,0.1,0.1,0.1,0.1,0.1,8.699157013534168e-48,3.3261482698807113e-47,True,exploratory Pearson approximation
+judgment_continuous,Judgment,2,0.659513697577236,0.1,0.1,0.1,0.1,0.1,5.5257819848737926e-62,1.0262166543337043e-60,True,exploratory Pearson approximation
+judgment_continuous,Judgment,3,0.6581067565129242,0.1,0.1,0.1,0.1,0.1,1.2233833187614838e-61,1.987997892987411e-60,True,exploratory Pearson approximation
+judgment_continuous,Judgment,4,0.6730718669571465,0.1,0.1,0.1,0.1,0.1,2.080400167630558e-65,1.3522601089598627e-63,True,exploratory Pearson approximation
+judgment_continuous,Judgment,5,0.6669319887120366,0.1,0.1,0.1,0.1,0.1,7.783911512061622e-64,2.0238169931360216e-62,True,exploratory Pearson approximation
+judgment_continuous,Judgment,6,0.6275830737738235,0.1,0.1,0.1,0.1,0.1,1.3893787695568132e-54,8.600916192494558e-54,True,exploratory Pearson approximation
+judgment_continuous,Judgment,7,0.6294299412567448,0.1,0.1,0.1,0.1,0.1,5.473318245276646e-55,3.55765685942982e-54,True,exploratory Pearson approximation
+judgment_continuous,Judgment,8,0.6235072958243701,0.1,0.1,0.1,0.1,0.1,1.0618752644224788e-53,6.274717471587374e-53,True,exploratory Pearson approximation
+judgment_continuous,Judgment,9,0.6413507240141094,0.1,0.1,0.1,0.1,0.1,1.1476102268474085e-57,1.0656380677868792e-56,True,exploratory Pearson approximation
+judgment_continuous,Judgment,10,0.6496905541071523,0.1,0.1,0.1,0.1,0.1,1.3005310825171536e-59,1.4089086727269164e-58,True,exploratory Pearson approximation
+judgment_continuous,Judgment,11,0.6567276759401202,0.1,0.1,0.1,0.1,0.1,2.65520047918125e-61,3.835289581039584e-60,True,exploratory Pearson approximation
+judgment_continuous,Judgment,12,0.6507038437483716,0.1,0.1,0.1,0.1,0.1,7.473769709815772e-60,9.715900622760503e-59,True,exploratory Pearson approximation
+judgment_continuous,Judgment,13,0.6677821826660915,0.1,0.1,0.1,0.1,0.1,4.738266784728021e-64,1.6039529703861385e-62,True,exploratory Pearson approximation
+judgment_continuous,Judgment,14,0.67783232731501,0.1,0.1,0.1,0.1,0.1,1.18062230231269e-66,1.534808993006497e-64,True,exploratory Pearson approximation
+judgment_continuous,Judgment,15,0.6497382197104014,0.1,0.1,0.1,0.1,0.1,1.2671391548346034e-59,1.4089086727269164e-58,True,exploratory Pearson approximation
+judgment_continuous,Judgment,16,0.6677125279222293,0.1,0.1,0.1,0.1,0.1,4.935239908880426e-64,1.6039529703861385e-62,True,exploratory Pearson approximation
+judgment_continuous,Judgment,17,0.6442277419873954,0.1,0.1,0.1,0.1,0.1,2.4856706373275468e-58,2.4856706373275468e-57,True,exploratory Pearson approximation
+judgment_continuous,Judgment,18,0.665967915312002,0.1,0.1,0.1,0.1,0.1,1.3639277492291182e-63,2.9551767899964227e-62,True,exploratory Pearson approximation
+judgment_continuous,Judgment,19,0.6343120417095265,0.1,0.1,0.1,0.1,0.1,4.523948493800012e-56,3.2672961344111195e-55,True,exploratory Pearson approximation
+judgment_continuous,Judgment,20,0.6386854484395537,0.1,0.1,0.1,0.1,0.1,4.6658691169326224e-57,4.0437532346749397e-56,True,exploratory Pearson approximation
+judgment_continuous,Judgment,21,0.6370628865180055,0.1,0.1,0.1,0.1,0.1,1.0884893058412e-56,8.84397560995975e-56,True,exploratory Pearson approximation
+judgment_continuous,Judgment,22,0.6149386764701615,0.1,0.1,0.1,0.1,0.1,6.934260635907527e-52,3.467130317953763e-51,True,exploratory Pearson approximation
+judgment_continuous,Judgment,23,0.6364362272822035,0.1,0.1,0.1,0.1,0.1,1.5077159569932585e-56,1.152959261230139e-55,True,exploratory Pearson approximation
+judgment_continuous,Judgment,24,0.6314639102714539,0.1,0.1,0.1,0.1,0.1,1.947695453528144e-55,1.3326337313613617e-54,True,exploratory Pearson approximation
+judgment_continuous,Judgment,25,0.6201469604765847,0.1,0.1,0.1,0.1,0.1,5.552952087374241e-53,3.1386250928637013e-52,True,exploratory Pearson approximation

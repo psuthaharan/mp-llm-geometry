@@ -1,0 +1,6 @@
+dimension,observed_max_layer,observed_max_r,label,bootstrap_maximum_mean,bootstrap_ci_low,bootstrap_ci_high,n_bootstrap,depth_gradient_rho
+comprehension_continuous,13,0.5086016989927946,Comprehension,11.9774,0.0,16.0,5000,-0.3531623931623932
+judgment_continuous,14,0.67783232731501,Judgment,10.0306,2.0,18.0,5000,-0.10564102564102562
+evaluation_continuous,12,0.5785693513547374,Evaluation,10.685,6.0,23.0,5000,0.228034188034188
+final_decision_continuous,21,0.6198895262667399,Final decision,19.6548,5.0,25.0,5000,0.833162393162393
+confidence_continuous,16,0.43149072485555345,Confidence,17.3898,15.0,23.0,5000,0.84
